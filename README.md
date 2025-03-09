@@ -21,8 +21,8 @@
 |                                                                                        🏆 赞助商 🏆                                                                                         |
   |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                  👉 [RawChat 公益站点](https://chatgptplus.cn) RawChat 公益站点，免费 GPT4，免费 Claude3.5，无需登录，打开即用。                                                  |
-| 👉 [LemonChat 综合镜像站](https://chat.lemonchat.xyz/)  支持 OpenAI 全系模型（GPT 4 免费，GPT 4o mini 免费、GPT 4o 免费），同时支持 Claude3.5 Haiku, Claude3.5 Pro 等模型。无需登录，打开即用。注册后进 Q 群 523135583 找客服领取 plus 会员。 |
-|     👉 [heck.ai](https://heck.ai) 是完全免费的 ChatGPT AI 搜索。支持不限量免费 GPT-4o，DeepSeek v3。支持联网问答，上传图片，深度思考。不需要登陆。点击 [heck.ai](https://heck.ai) 立刻尝试 [Ulimited Free ChatGPT](https://heck.ai) 。    |
+| 👉 [LemonChat 综合镜像站](https://chat.lemonchat.xyz/)  LemonChat 综合镜像站 支持 ChatGPT, Claude, DeepSeek, Grok 等当下最新模型, （GPT 4 免费，GPT 4o mini 免费、GPT 4o 免费）。无需登录，打开即用。客服群 523135583。 |
+|     👉 [heck.ai](https://heck.ai) 是完全免费的 ChatGPT AI 搜索。支持 Claude 3.7 Sonnet & GPT 4.5，支持不限量免费 GPT-4o，DeepSeek v3。支持联网问答，上传图片，深度思考。不需要登陆。点击 [heck.ai](https://heck.ai) 立刻尝试 [Ulimited Free ChatGPT](https://heck.ai) 。    |
 
 ---
 
@@ -82,11 +82,26 @@
             </td>
             <td>2024-12-21</td>
             <td>
-完全免费无登录，不限量支持 GPT-4o，DeepSeek V3，支持联网问答，上传图片，深度思考。
+完全免费无登录，支持 Claude 3.7 Sonnet & GPT 4.5，不限量支持 GPT-4o，DeepSeek V3，支持联网问答，上传图片，深度思考。
 </td>
         </tr>
         <tr>
             <td>2</td>
+            <td> <a href="https://freegpt.tech" target="_blank">https://freegpt.tech</a>
+                <br> </td>
+            <td>
+                        🏆
+                        🆓
+                        💪
+                        🧰
+            </td>
+            <td>2024-10-11</td>
+            <td>免费ChatGPT，支持免费画图和上传文件，无需登录。
+模型支持：
+gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemini、grok、deepseek 等。</td>
+        </tr>
+        <tr>
+            <td>3</td>
             <td> <a href="https://chat5.aiyunos.top" target="_blank">https://chat5.aiyunos.top</a>
                 <br> </td>
             <td>
@@ -96,18 +111,6 @@
                         🧰
             </td>
             <td>2023-11-15</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td> <a href="https://freegpt.tech" target="_blank">https://freegpt.tech</a>
-                <br> </td>
-            <td>
-                        🏆
-                        🆓
-                        💪
-            </td>
-            <td>2024-10-11</td>
             <td></td>
         </tr>
         <tr>
